@@ -137,3 +137,81 @@ main{
 }
 /* Resume Styles */
 
+.resume-content{
+    display: flex;
+    gap: 20px;
+}
+.resume-section-title{
+    margin-top: 50px;
+    margin-bottom: 40px;
+    text-align: center;
+
+}
+.resume-title{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.r h4 , h5 ,p{
+    margin-top: 20px;
+    margin-bottom: 20;
+}
+.resume{
+    margin-left: 20px;
+}
+.d-cv{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+    
+    
+}
+.cv-download{
+    background-color: #FD6E0A;
+    border: 0;
+    padding: 20px;
+    font-weight: 700;
+    text-align: center;
+    color: #FFFFFF;
+    
+    
+
+}
+.connect{
+    background: #FFF8F3;
+    margin-top: 150px;
+    display: flex;
+    gap: 120px;
+}
+.text{
+    border: 0;
+    width: 261px;
+    height: 34px;
+    padding-left: 10px;
+}
+.email{
+    border: 0;
+    width: 261px;
+    height: 34px;
+    padding-left: 10px;
+
+}
+.textarea{
+    border: 0;
+    padding-top: 20px;
+    padding-left: 10px;
+
+}
+.btn{
+    border: 0;
+    color: #FD6E0A;
+}
+.Sub{
+    font-size: 20px;
+    background-color: #FD6E0A;
+    border: 0;
+    width: 100px;
+    height: 40px;
+    border-radius: 05px;
+    color: #FFFFFF;
+    
+}
