@@ -59,7 +59,7 @@ nav ul li{
 }
 /* Main Section Style */
 main{
-    max-width: 800px;
+    
     margin: 0 auto;
     background: #FFF8F3;
  
@@ -69,7 +69,7 @@ main{
 /* About Section Style */
 .about{
     margin-top: 130px;
-    padding: 130px 157px;
+    padding: 0 29px;
     background: white;
     border-radius: 10px;
     background: #FFF8F3;
@@ -110,13 +110,28 @@ main{
 
 }
 .what-i-do{
-  max-width: 700;
-  margin: 0 auto;
-  padding: 130px 157px;
-}
+    margin-top: 130px;
+    padding: 0 29px;
+    border-radius: 10px;
+    border-radius: 10px;
+    }
+
 .title{
   text-align: center;
+  
 }
 .description{
     text-align: center;
+    margin-top: 20px;
+}
+/* Skills Styles */
+.skill-container{
+    display: flex;
+    gap: 20px;
+}
+.skill-container-portfolio{
+    margin-top: 120px;
+    background: rgb(231, 228, 228);
+    box-shadow: 0px 6px 50px rgba(0, 0, 0, 0.06);
+    border-radius: 15px;
 }
